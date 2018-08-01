@@ -49,3 +49,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+
+Created a restaurant review system using PHP and Laravel,(think a smaller version of Yelp) that has both Reviewer and Administrator components. Some of the functionality are available to individuals even if they are not logged-in.
+
